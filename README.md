@@ -101,4 +101,4 @@ connection.close()
 
 ## SOLUTION
 
-**[Solution](https://github.com/manukempo/assignment2/blob/master/h3.py)**
+**[Solution](https://github.com/manukempo/hw3/blob/master/server.py)**
